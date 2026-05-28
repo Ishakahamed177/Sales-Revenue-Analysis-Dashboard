@@ -40,7 +40,7 @@ The dashboard helps identify:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Previe(Dashboard.png)
+Dashboard<img width="1013" height="807" alt="Dashboard" src="https://github.com/user-attachments/assets/de0be00c-3cc4-4f33-96e5-1b138dfd3885" />
 
 ---
 
@@ -60,4 +60,4 @@ The dashboard helps identify:
 
 ## 🔗 Live Dashboard
 
-[View Interactive Dashboard]([PASTE_YOUR_DASHBOARD_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiZmE2NjdhOWEtYTkzYy00ZTQ2LWI4OTUtM2RkNTlmMGNmMjJhIiwidCI6ImEzNWJjY2IxLTc4M2UtNDg3Mi1hOGMyLTM5YmJiYmY1ZGNmNiJ9))
+[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmE2NjdhOWEtYTkzYy00ZTQ2LWI4OTUtM2RkNTlmMGNmMjJhIiwidCI6ImEzNWJjY2IxLTc4M2UtNDg3Mi1hOGMyLTM5YmJiYmY1ZGNmNiJ9)
